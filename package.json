@@ -1,29 +1,24 @@
 {
   "name": "bhs",
   "version": "1.0.0",
-  "description": "a site to learn about web dev tools",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kingluddite/bhs-workflow-experiment.git"
+    "url": "git+https://github.com/chawang000/bhs-workflow-experiment.git"
   },
-  "keywords": [
-    "love",
-    "code",
-    "fun"
-  ],
-  "author": "Phil and the gang",
+  "author": "ZG",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kingluddite/bhs-workflow-experiment/issues"
+    "url": "https://github.com/chawang000/bhs-workflow-experiment/issues"
   },
-  "homepage": "https://github.com/kingluddite/bhs-workflow-experiment#readme",
+  "homepage": "https://github.com/chawang000/bhs-workflow-experiment#readme",
   "dependencies": {
     "bootstrap": "^3.3.6",
     "jquery": "^2.2.0",
-    "normalize.css": "^3.0.3"
+    "normalize-css": "^2.3.1"
   }
 }
